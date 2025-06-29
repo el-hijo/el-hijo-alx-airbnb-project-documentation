@@ -1,5 +1,5 @@
 # Features and functionalities of the Airbnb Clone backend
-Core Functionalities
+Core Functionalities.
 
 The backend for the Airbnb Clone must enable key features that align with the functionalities of a rental marketplace.
 
